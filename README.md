@@ -1,139 +1,159 @@
 # 🐍 Desert Breeze — Advanced Snake Game
 
 <p align="center">
-  <strong>A modern take on the classic Snake game, featuring an in-game shop, coins, power-ups, and unlockable content.</strong>
+  <strong>Classic Snake. A Bigger Adventure.</strong>
+  <br>
+  An enhanced Snake game featuring coins, an in-game shop, special power-ups, and unlockable content.
 </p>
 
 <p align="center">
-  🎮 Python Game · 🪙 Coin System · 🛒 In-Game Shop · ⚡ Power-Ups
+  🎮 Arcade Gameplay • 🪙 Coin System • 🛒 In-Game Shop • ⚡ Power-Ups • 🔓 Unlockables
 </p>
 
 ---
 
-## 🌟 About the Game
+## 🌟 About the Project
 
-**Desert Breeze** is an advanced Snake game that takes the classic arcade experience to the next level.
+**Desert Breeze** is an advanced take on the classic Snake game, designed to offer more than the traditional arcade experience.
 
-Instead of simply controlling a snake and collecting food, players can collect coins, visit the in-game shop, purchase special items, and unlock additional content as they progress.
+Players can enjoy Snake gameplay while collecting coins, purchasing items from the in-game shop, accessing special power-ups, and unlocking additional content.
 
-The goal is to create a more engaging experience by combining classic Snake gameplay with progression and shop mechanics.
+The project combines classic gameplay with shop and progression mechanics to create a more engaging and rewarding experience.
 
 ## ✨ Features
 
 ### 🐍 Classic Snake Gameplay
 - Control the snake and navigate the game environment.
-- Collect food and try to achieve a higher score.
-- Challenge yourself to improve your gameplay.
+- Collect food and aim for a higher score.
+- Challenge yourself to improve your performance.
 
-### 🪙 In-Game Coin System
-- Collect and use in-game currency.
-- Spend coins in the shop to obtain available items.
-- Make strategic decisions about how to spend your coins.
+### 🪙 Coin System
+- Use in-game coins as currency.
+- Spend collected coins on available shop items.
+- Make strategic decisions about your purchases.
 
 ### 🛒 In-Game Shop
-Explore the built-in shop and use your collected coins to purchase available content.
+Explore the built-in shop and purchase available content using in-game coins.
 
-- Purchase items using in-game coins.
+- Buy items with coins.
 - Access special power-ups and useful items.
-- Unlock additional features and game content.
+- Unlock additional features and stages.
 
 ### ⚡ Special Power-Ups
-Enhance your gameplay with special powers and items available through the shop.
-
-Use the available upgrades to make your experience more interesting and varied.
+- Purchase special powers and items through the shop.
+- Enhance your gameplay with available upgrades.
+- Explore different ways to improve your gaming experience.
 
 ### 🔓 Unlockable Content
-Progress beyond the basic gameplay by unlocking additional features and stages.
+- Unlock additional features as you progress.
+- Access new stages or other available content.
+- Discover more of the game beyond the basic Snake experience.
 
-Discover more content as you advance through the game.
+## 🎯 How to Play
 
-## 🎯 Gameplay
-
-1. Start the game.
+1. Launch the game.
 2. Control the snake and collect food.
 3. Earn coins through the game's available mechanics.
-4. Visit the in-game shop.
-5. Purchase available items and special power-ups.
+4. Open the in-game shop.
+5. Spend coins on available items and power-ups.
 6. Unlock additional features and stages.
-7. Keep playing, improve your score, and explore the available content.
+7. Keep playing and try to improve your score!
 
 ## 🛠️ Built With
 
-- **Python** — Game logic and application code.
-- **Game Libraries** — The libraries used by the project, depending on the implementation.
+- **Python** — Core programming language.
+- **Game Libraries** — The libraries required by the game's implementation.
 
-## 💻 Getting Started
+## 💻 Installation and Setup
 
 ### Prerequisites
 
 Make sure Python is installed on your computer.
 
-Check your Python installation:
+Check your Python version:
 
 ```bash
 python --version
 ```
 
-### Installation
-
-1. Clone the repository:
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/amiralikamaliyan-Game-maker/desert-breeze.git
 ```
 
-2. Navigate to the project directory:
+### 2. Navigate to the Project Folder
 
 ```bash
 cd desert-breeze
 ```
 
-3. Extract the game's ZIP archive if necessary.
+### 3. Extract the Game Files
 
-4. Install the required dependencies according to the project's dependency files.
+If the game source code is provided in a ZIP archive, extract the archive before continuing.
 
-5. Run the main Python game file:
+Make sure `main.py` is located in the directory from which you intend to run the game.
+
+### 4. Install Dependencies
+
+If the repository includes a `requirements.txt` file, install the dependencies with:
 
 ```bash
-python your_game_file.py
+python -m pip install -r requirements.txt
 ```
 
-Replace `your_game_file.py` with the actual name of the main Python file.
+If no dependency file is provided, install the libraries required by the project.
+
+### 5. Run the Game
+
+Start Desert Breeze with:
+
+```bash
+python main.py
+```
 
 ## 🎮 Controls
 
-The controls depend on the game's implementation. Check the in-game instructions or the source code for the exact key bindings.
+Controls depend on the game's implementation.
 
-## 🚀 Project Goals
+Check the in-game instructions or the source code to find the exact keyboard controls.
 
-Desert Breeze aims to expand the classic Snake formula through:
+## 🚀 Project Highlights
 
-- Engaging arcade gameplay.
+Desert Breeze expands on the traditional Snake formula with:
+
+- Classic arcade-style gameplay.
 - A coin-based purchasing system.
-- Special items and power-ups.
-- Unlockable content and progression.
-- An enjoyable and replayable gaming experience.
+- An in-game shop.
+- Special power-ups and purchasable items.
+- Unlockable features and stages.
+- Additional progression beyond basic gameplay.
 
 ## 🔮 Future Improvements
 
-Potential improvements for future versions include:
+Possible ideas for future versions include:
 
-- Additional power-ups and shop items.
-- More stages and challenges.
-- New snake skins and visual customization.
-- Enhanced animations and sound effects.
-- Improved progression and reward systems.
-- High-score tracking and additional achievements.
+- More shop items and power-ups.
+- Additional stages and challenges.
+- Custom snake skins and visual themes.
+- More animations and sound effects.
+- Improved rewards and progression systems.
+- Achievements and high-score tracking.
 
 ## 🤝 Contributing
 
-Suggestions, bug reports, and improvements are welcome!
+Ideas, suggestions, and bug reports are welcome!
 
-If you would like to contribute, feel free to fork the repository and submit a pull request.
+To contribute:
+
+1. Fork this repository.
+2. Create a branch for your changes.
+3. Make and test your improvements.
+4. Submit a pull request.
 
 ## 📜 License
 
-No license has been specified yet. Please check the repository for licensing information before redistributing or modifying the project.
+No license has been specified in this README. Check the repository for licensing information before redistributing or modifying the project.
 
 ## 👨‍💻 Developer
 
@@ -141,10 +161,12 @@ No license has been specified yet. Please check the repository for licensing inf
 
 GitHub: [@amiralikamaliyan-Game-maker](https://github.com/amiralikamaliyan-Game-maker)
 
+Project Repository: [Desert Breeze](https://github.com/amiralikamaliyan-Game-maker/desert-breeze)
+
 ---
 
 <p align="center">
   🐍 <strong>Desert Breeze</strong>
-  <br />
+  <br>
   <em>Classic Snake. A Bigger Adventure.</em>
 </p>
